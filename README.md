@@ -2,6 +2,8 @@
 
 https://github.com/user-attachments/assets/471e43ae-4e2e-4a90-96b6-6bf6382ba46c
 
+
+
 # Introduction
 
 The UK-based chocolate company's  sales team needed clear visibility into their monthly and year-to-date (YTD) performance compared to targets. Leadership wanted a Power BI dashboard to track:
